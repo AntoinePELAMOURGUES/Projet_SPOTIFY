@@ -1,4 +1,6 @@
 # Data
-/data/
-/mongodb_data/
+/data/duckdb_data/.tmp
+/data/duckdb_data/duckdb
+/data/duckdb_data/playlists.parquet
+/data/interim
 /docs/
